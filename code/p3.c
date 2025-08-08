@@ -1,5 +1,5 @@
 john;
 git1;
 gohn;
-int a,b;
+int a,d,c;
 
