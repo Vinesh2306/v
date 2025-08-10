@@ -1,7 +1,7 @@
 john;
 git1;
 gohn;
-int v,s,c,d,vinesh;
+int v,s,c,d;
 newbranch(){
     printf("new branch1");
 }
