@@ -1,3 +1,1 @@
 hiiiiii;
-names="apple";
-banana;
